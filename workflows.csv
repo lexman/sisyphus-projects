@@ -3,4 +3,4 @@ code_officiel_geographique,git@github.com:lexman/code_officiel_geographique.git,
 carte_de_mon_departement,git@github.com:lexman/carte-de-mon-departement.git,master,tuttlefile,,https://github.com/lexman/carte-de-mon-departement,600,120,cdmd_sisyphus@lexman.org
 s-and-p-500-companies,git@github.com:lexman/s-and-p-500-companies.git,tuttle,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/s-and-p-500-companies,600,120,sp500_sisyphus@lexman.org
 world-cities,git@github.com:lexman/world-cities.git,master,scripts/tuttlefile,scripts/Dockkerfile,https://github.com/lexman/world-cities,600,120,world-cities_sisyphus@lexman.org
-geo-countries-110m,git@github.com:lexman/geo-countries-110m.git,master,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/geo-countries-110m,600,120,geo-countries-110m_sisyphus@lexman.org
+geo-countries-110m,git@github.com:lexman/geo-countries-110m.git,sisyphus,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/geo-countries-110m,600,120,geo-countries-110m_sisyphus@lexman.org
