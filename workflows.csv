@@ -1,6 +1,6 @@
 name,repository,branch,tuttlefile,dockerfile,url,run_interval,update_interval,email
 code_officiel_geographique,git@github.com:lexman/code_officiel_geographique.git,master,tuttlefile,Dockerfile,https://github.com/lexman/code_officiel_geographique,60,40,cog_sisyphus@lexman.org
-carte_de_mon_departement,git@github.com:lexman/carte-de-mon-departement.git,master,tuttlefile,,https://github.com/lexman/carte-de-mon-departement,60,40,cdmd_sisyphus@lexman.org
+carte_de_mon_departement,git@github.com:lexman/carte-de-mon-departement.git,master,tuttlefile,Dockerfile,https://github.com/lexman/carte-de-mon-departement,60,40,cdmd_sisyphus@lexman.org
 s-and-p-500-companies,git@github.com:lexman/s-and-p-500-companies.git,tuttle,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/s-and-p-500-companies,60,40,sp500_sisyphus@lexman.org
 world-cities,git@github.com:lexman/world-cities.git,sisyphus,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/world-cities,60,40,world-cities_sisyphus@lexman.org
 geo-countries,git@github.com:lexman/geo-countries.git,validation,scripts/tuttlefile,scripts/Dockerfile,https://github.com/lexman/geo-countries,60,40,geo-countries_sisyphus@lexman.org
